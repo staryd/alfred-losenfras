@@ -1,7 +1,7 @@
 # alfred-losenfras 
+![Lösenfras](icon.png "Lösenfras")
 
-> Create a Swedish pass phrase a.k.a "lösenfras" from Alfred. Heavily inspired by [Johan Driessens](https://github.com/nahojd) web application [Lösenfras](https://johan.driessen.se/lösenfras). The Swedish words are downloaded from [Projekt Runeberg Nordic Words](http://runeberg.org/words/). Words that are very short, long or contains other characters than a-ö has been removed for enhanced usability.
-
+> Create a Swedish pass phrase a.k.a "lösenfras" from Alfred. Heavily inspired by [Johan Driessen's](https://github.com/nahojd) web application [Lösenfras](https://johan.driessen.se/lösenfras). The Swedish words originates from [Projekt Runeberg, Nordic Words](http://runeberg.org/words/). Words that are very short, long or contains other characters than a-ö has been removed for enhanced usability.
 
 ## Install
 
@@ -9,7 +9,7 @@
 $ npm install --global alfred-losenfras
 ```
 
-*Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
+*Requires [Node.js](https://nodejs.org) 6+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
 
 ## Usage
